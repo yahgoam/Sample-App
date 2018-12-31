@@ -3,7 +3,7 @@ require 'test_helper'
 class StaticPagesControllerTest < ActionDispatch::IntegrationTest
 
   def setup
-    @titulo = "Ruby on Rails Tutorial Sample App"
+    @titulo = "Twitter, só que zinho"
   end
 
   test "should get home" do
